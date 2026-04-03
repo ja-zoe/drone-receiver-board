@@ -1,0 +1,14 @@
+build*
+drone-receiver-board-backups
+
+# KiCad lock files
+*.lck
+
+# KiCad cache/auto-generated files
+fp-info-cache
+*.kicad_prl
+
+# Autosave/backup files
+*-backups/
+*.bak
+*_autosave*
